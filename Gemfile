@@ -56,4 +56,4 @@ group :test do
 end
 
 
-gem 'faker', '~> 2.23'
+gem 'faker', '~> 3.4'
